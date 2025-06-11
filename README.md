@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markam303
 - 👀 I’m interested in computer science, electronic music making, 3D printing
-- 🌱 I’m currently learning CS50 courses
+- 🌱 I’m currently learning CS50AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/markam303
 
